@@ -41,7 +41,7 @@
 </ul>
 
 <b>Исходные данные</b>
-[Перейти на Google](https://www.google.com)
+[htps://disk.yandex.rud/PdSAbeqyvAJLCg](https://www.google.com)
 <br>[htps://disk.yandex.rud/PdSAbeqyvAJLCg](htps://disk.yandex.rud/PdSAbeqyvAJLCg)
   
   Выгрузка мастер-данных + данных о продажах на уровне товаров (КU) и
