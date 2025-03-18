@@ -41,7 +41,7 @@
 </ul>
 
 <b>Исходные данные</b>
-<a href='htps://disk.yandex.rud/PdSAbeqyvAJLCg'><u>htps://disk.yandex.rud/PdSAbeqyvAJLCg</u></a>
+<a href='htps://disk.yandex.rud/PdSAbeqyvAJLCg'>htps://disk.yandex.rud/PdSAbeqyvAJLCg</a>
   
   Выгрузка мастер-данных + данных о продажах на уровне товаров (КU) и
 торговых точек из системы Честный Знак (МДЛП) за период в І год.
